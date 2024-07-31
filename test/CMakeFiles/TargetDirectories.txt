@@ -1,0 +1,3 @@
+/Users/trevortopolski/Desktop/Document scanner/test/CMakeFiles/MyProject.dir
+/Users/trevortopolski/Desktop/Document scanner/test/CMakeFiles/edit_cache.dir
+/Users/trevortopolski/Desktop/Document scanner/test/CMakeFiles/rebuild_cache.dir
